@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1396566436 source:c:\users\user\dropbox\viope_2014\tripletsgame\code\triplets_game\board.c
+	<stdio.h>
+	"board.h"
+	"data_structs.h"
+
+1396566348 c:\users\user\dropbox\viope_2014\tripletsgame\code\triplets_game\board.h
+	"data_structs.h"
+
+1396566128 c:\users\user\dropbox\viope_2014\tripletsgame\code\triplets_game\data_structs.h
+
+1396566446 source:c:\users\user\dropbox\viope_2014\tripletsgame\code\triplets_game\main.c
+	<stdlib.h>
+	<stdio.h>
+	"data_structs.h"
+	"board.h"
+
+1396566436 source:c:\users\user\dropbox\viope_2014\tripletsgame\code\triplets_game\data_structs.c
+	<stdio.h>
+	"data_structs.h"
+	"board.h"
+
+1396228824 source:c:\users\user\dropbox\viope_2014\tripletsgame\code\old_triplets_game\board.c
+	<stdio.h>
+	"board.h"
+	"data_structs.h"
+
+1396228747 c:\users\user\dropbox\viope_2014\tripletsgame\code\old_triplets_game\board.h
+	"data_structs.h"
+
+1396564106 c:\users\user\dropbox\viope_2014\tripletsgame\code\old_triplets_game\data_structs.h
+
+1396564049 source:c:\users\user\dropbox\viope_2014\tripletsgame\code\old_triplets_game\data_structs.c
+	<stdio.h>
+	"data_structs.h"
+	"board.h"
+
