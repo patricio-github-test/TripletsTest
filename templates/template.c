@@ -2,6 +2,7 @@
  * Triplets Game - VIOPE 2014 
  *
  * @creation date	2014-03-27
+ * @author Project Master
  *
  **/
 
